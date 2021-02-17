@@ -1,0 +1,111 @@
+body{
+
+	background-color: rgb(230,230,230);
+	margin:50px;
+}
+
+header ul {
+
+  list-style-type: none;
+  overflow: hidden;
+  background-color: rgb(100,100,200);
+  padding : 20px;
+
+}
+
+header li {
+
+  float: left;
+}
+
+div.right{
+
+  margin: 5px;
+  padding-top: 100px;
+  float: right;
+  width: 60%;
+
+}
+
+div.box{
+
+  width: 100%;
+}
+
+div.left{
+
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 30px;
+
+}
+
+header li a {
+  color: white;
+  text-align: center;
+  padding: 40px 16px;
+  text-decoration: none;
+}
+
+p.intro{
+
+	font-style: italic;
+	font-size: 24px;
+	color: rgb(100,155,100);
+}
+p.address{
+	font-style: italic;
+	font-size: 24px;
+	color: currentColor;
+}
+table{
+
+	width:100%;
+	height: 100%;
+}
+
+td{
+	width:100%;
+}
+#detail{
+	
+	margin-top: 100px;
+	padding-left: 150px;
+	padding-bottom: 50px;
+	padding-top: 50px;
+}
+
+#education{
+	
+	padding-left: 150px;
+}
+
+#profile{
+
+	padding-top: 50px;
+}
+#contact{
+	
+	padding-top: 150px;
+	padding-left: 150px;
+	padding-bottom: 200px;
+}
+
+li{
+	font-size: 24px;
+	font-style: italic;
+}
+
+h2{
+	font-style: italic;
+	color: rgb(100,100,100);
+	font-size: 30px;
+}
+footer{
+
+	background-color: gray;
+	padding: 30px;
+	font-size: 20px;
+	color:white;
+}
